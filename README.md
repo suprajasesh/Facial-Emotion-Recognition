@@ -1,5 +1,9 @@
 # Facial-Emotion-Recognition
+Datasets link:
 
+https://www.kaggle.com/datasets/deadskull7/fer2013 (csv)
+
+https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer (images)
 ## Abstract
 Models used- CNN, GNB, kNN, MLP, k-Means with PCA
 
